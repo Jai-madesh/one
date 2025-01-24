@@ -166,8 +166,8 @@
 </head>
 <body>
     <header>
-        <h1>Jayachandran - DevOps Engineer</h1>
-        <p>Building Automation & Scalable Solutions for Modern Applications</p>
+        <h1>Jayachandran</h1>
+        <p>Student</p>
         <nav>
             <a href="#about">About</a>
             <a href="#skills">Skills</a>
@@ -178,7 +178,7 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Jayachandran, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
+        <p>Hello! I'm Jayachandran, a Student</p>
     </section>
 
     <section id="skills" class="skills">
