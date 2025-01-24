@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Jayachandran</h1>
+        <h1>Jayachandran - DevOps Engineer</h1>
         <p>Student</p>
         <nav>
             <a href="#about">About</a>
@@ -178,7 +178,7 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Jayachandran, a Student</p>
+        <p>Hello! I'm Jayachandran, a DevOps Engineer passionate about optimize workflow and delivering scabable, automate solutions. I spcialize in tools like Jenkins, Docker, Kubernetes, terraform, and cloud platform such as AWS and azure</p>
     </section>
 
     <section id="skills" class="skills">
